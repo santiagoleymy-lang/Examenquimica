@@ -1,52 +1,467 @@
 [
   {
-    "question": "¿Qué elementos forman los carbohidratos?",
-    "options": ["Carbono, Hidrógeno y Oxígeno", "Carbono, Nitrógeno y Oxígeno", "Hidrógeno y Oxígeno", "Carbono y Azufre"],
+    "question": "¿Qué bioelementos conforman un carbohidrato?",
+    "options": [
+      "Carbono, hidrógeno y oxígeno",
+      "Carbono, nitrógeno y oxígeno",
+      "Hidrógeno y fósforo",
+      "Carbono y azufre"
+    ],
     "answer": 0
   },
   {
-    "question": "¿Cuál es la unidad más pequeña de los carbohidratos?",
-    "options": ["Disacárido", "Monosacárido", "Polisacárido", "Oligosacárido"],
+    "question": "¿Qué grupos funcionales poseen los carbohidratos?",
+    "options": [
+      "Amino y fosfato",
+      "Hidroxilo y carbonilo",
+      "Carboxilo y amino",
+      "Tiol y éster"
+    ],
     "answer": 1
   },
   {
-    "question": "¿Qué grupos funcionales presentan los carbohidratos?",
-    "options": ["Amino y fosfato", "Carboxilo y amino", "Hidroxilo y carbonilo", "Sulfhidrilo y éster"],
+    "question": "¿Cuál es la unidad más pequeña de los carbohidratos?",
+    "options": [
+      "Polisacárido",
+      "Oligosacárido",
+      "Monosacárido",
+      "Disacárido"
+    ],
     "answer": 2
   },
   {
-    "question": "¿Qué función cumplen los carbohidratos en los seres vivos?",
-    "options": ["Fuente inmediata de energía", "Reserva energética", "Función estructural", "Todas las anteriores"],
+    "question": "¿Cuál es una función de los carbohidratos en los seres vivos?",
+    "options": [
+      "Fuente inmediata de energía",
+      "Reserva energética",
+      "Función estructural",
+      "Todas las anteriores"
+    ],
     "answer": 3
   },
   {
-    "question": "Una molécula con 6 carbonos se clasifica como:",
-    "options": ["Pentosa", "Hexosa", "Heptosa", "Triosa"],
+    "question": "¿Cuáles son las tres formas de clasificar un monosacárido?",
+    "options": [
+      "Número de carbonos, grupo funcional y orientación espacial",
+      "Color, tamaño y masa",
+      "Solubilidad, forma y densidad",
+      "Acidez, carga y polaridad"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Una triosa posee:",
+    "options": [
+      "3 carbonos",
+      "4 carbonos",
+      "5 carbonos",
+      "6 carbonos"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Una hexosa posee:",
+    "options": [
+      "4 carbonos",
+      "5 carbonos",
+      "6 carbonos",
+      "7 carbonos"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué grupo funcional caracteriza a una aldosa?",
+    "options": [
+      "Cetona",
+      "Alcohol",
+      "Aldehído",
+      "Éster"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué grupo funcional caracteriza a una cetosa?",
+    "options": [
+      "Cetona",
+      "Aldehído",
+      "Amina",
+      "Carboxilo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En la configuración D, el grupo OH del carbono quiral más alejado se encuentra:",
+    "options": [
+      "A la izquierda",
+      "A la derecha",
+      "En el centro",
+      "Hacia abajo"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "En la configuración L, el grupo OH del carbono quiral más alejado se encuentra:",
+    "options": [
+      "A la izquierda",
+      "A la derecha",
+      "Hacia arriba",
+      "En el centro"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué sucede con los monosacáridos en disolución acuosa?",
+    "options": [
+      "Se descomponen",
+      "Forman proteínas",
+      "Las estructuras lineales se cierran y forman estructuras cíclicas",
+      "Pierden oxígeno"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué es un enlace hemiacetal?",
+    "options": [
+      "La unión entre dos proteínas",
+      "La reacción entre un grupo aldehído y un alcohol dentro de la misma molécula",
+      "La unión entre dos ácidos grasos",
+      "Un enlace peptídico"
+    ],
     "answer": 1
   },
   {
-    "question": "Las furanosas poseen anillos de:",
-    "options": ["4 miembros", "5 miembros", "6 miembros", "7 miembros"],
+    "question": "Las furanosas presentan anillos de:",
+    "options": [
+      "4 miembros",
+      "5 miembros",
+      "6 miembros",
+      "7 miembros"
+    ],
     "answer": 1
   },
   {
-    "question": "Las piranosas poseen anillos de:",
-    "options": ["4 miembros", "5 miembros", "6 miembros", "7 miembros"],
+    "question": "Las piranosas presentan anillos de:",
+    "options": [
+      "5 miembros",
+      "6 miembros",
+      "7 miembros",
+      "8 miembros"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué es el carbono anomérico?",
+    "options": [
+      "El carbono que proviene del grupo carbonilo y forma el anillo",
+      "El último carbono de la cadena",
+      "El carbono unido al nitrógeno",
+      "El carbono más pequeño de la molécula"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Cómo se clasifican los carbohidratos según el número de unidades?",
+    "options": [
+      "Monosacáridos, oligosacáridos y polisacáridos",
+      "Aldosas y cetosas",
+      "Simples y complejos",
+      "Ácidos y básicos"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Los homopolisacáridos están formados por:",
+    "options": [
+      "Diferentes monosacáridos",
+      "Un solo tipo de monosacárido",
+      "Proteínas y lípidos",
+      "Ácidos nucleicos"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Los heteropolisacáridos están formados por:",
+    "options": [
+      "Un solo tipo de monosacárido",
+      "Ácidos grasos",
+      "Diferentes monosacáridos",
+      "Aminoácidos"
+    ],
     "answer": 2
   },
   {
     "question": "¿Qué polisacárido funciona como reserva energética en plantas?",
-    "options": ["Glucógeno", "Celulosa", "Almidón", "Quitina"],
+    "options": [
+      "Celulosa",
+      "Glucógeno",
+      "Almidón",
+      "Quitina"
+    ],
     "answer": 2
   },
-  {
-    "question": "¿Qué polisacárido funciona como reserva energética en animales?",
-    "options": ["Almidón", "Celulosa", "Glucógeno", "Pectina"],
-    "answer": 2
-  },
-  {
-    "question": "La celulosa está formada por moléculas de:",
-    "options": ["α-glucosa", "β-glucosa", "Fructosa", "Galactosa"],
+    {
+    "question": "¿Qué tipo de polisacárido es el almidón?",
+    "options": [
+      "Heteropolisacárido estructural",
+      "Homopolisacárido de reserva",
+      "Oligosacárido",
+      "Glucolípido"
+    ],
     "answer": 1
+  },
+  {
+    "question": "¿De qué moléculas está compuesto el almidón?",
+    "options": [
+      "Fructosa",
+      "Galactosa",
+      "Moléculas de α-glucosa",
+      "β-glucosa"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué dos estructuras forman el almidón?",
+    "options": [
+      "Celulosa y quitina",
+      "Amilosa y amilopectina",
+      "Glucógeno y pectina",
+      "Furanosa y piranosa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo es la amilosa?",
+    "options": [
+      "Muy ramificada",
+      "Lineal",
+      "Esférica",
+      "Fibrosa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo es la amilopectina?",
+    "options": [
+      "Lineal",
+      "Ramificada",
+      "Esférica",
+      "Cíclica"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué polisacárido constituye la reserva energética en animales y hongos?",
+    "options": [
+      "Almidón",
+      "Celulosa",
+      "Glucógeno",
+      "Pectina"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Cómo es la estructura del glucógeno?",
+    "options": [
+      "Lineal",
+      "Muy ramificada",
+      "Fibrosa",
+      "Helicoidal"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué tipo de polisacárido es la celulosa?",
+    "options": [
+      "De reserva",
+      "Estructural",
+      "Conjugado",
+      "Lipoproteico"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿La celulosa está formada por moléculas de?",
+    "options": [
+      "α-glucosa",
+      "Fructosa",
+      "β-glucosa",
+      "Galactosa"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué tipo de enlaces unen las cadenas de la celulosa?",
+    "options": [
+      "α(1→4)",
+      "β(1→4)",
+      "Peptídicos",
+      "Disulfuro"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "¿Cuál es la función principal de la celulosa en las plantas?",
+    "options": [
+      "Reserva energética",
+      "Función estructural en la pared celular",
+      "Almacenamiento de agua",
+      "Producción de proteínas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué tipo de polisacárido es la pectina?",
+    "options": [
+      "Homopolisacárido",
+      "Heteropolisacárido",
+      "Disacárido",
+      "Monosacárido"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Dónde se encuentra principalmente la pectina?",
+    "options": [
+      "En la sangre",
+      "En la pared celular de las plantas",
+      "En los músculos",
+      "En las membranas animales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿De qué está compuesto el ácido hialurónico?",
+    "options": [
+      "Glucosa y fructosa",
+      "Ácido D-glucurónico y N-acetilglucosamina",
+      "Aminoácidos esenciales",
+      "Ácidos grasos y glicerol"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es una función del ácido hialurónico?",
+    "options": [
+      "Mantener la humedad de los tejidos",
+      "Almacenar energía",
+      "Transportar oxígeno",
+      "Formar enzimas"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué biomoléculas forman los ácidos grasos?",
+    "options": [
+      "Carbohidratos",
+      "Proteínas",
+      "Lípidos",
+      "Ácidos nucleicos"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Cuál es la función principal de los acilglicéridos?",
+    "options": [
+      "Reserva energética",
+      "Información genética",
+      "Catálisis enzimática",
+      "Transporte de oxígeno"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué función cumplen las ceras?",
+    "options": [
+      "Protección e impermeabilización",
+      "Síntesis de proteínas",
+      "Almacenamiento de ADN",
+      "Producción de glucosa"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué tipo de lípidos forman la estructura básica de las membranas celulares?",
+    "options": [
+      "Ceras",
+      "Fosfolípidos",
+      "Esteroides",
+      "Terpenos"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué transportan las lipoproteínas en la sangre?",
+    "options": [
+      "Oxígeno",
+      "Lípidos",
+      "Proteínas",
+      "Vitaminas"
+    ],
+    "answer": 1
+  },
+    {
+    "question": "¿Cuál es la lipoproteína conocida como colesterol bueno?",
+    "options": ["LDL", "VLDL", "HDL", "IDL"],
+    "answer": 2
+  },
+  {
+    "question": "¿Cuál es la lipoproteína conocida como colesterol malo?",
+    "options": ["HDL", "LDL", "IDL", "Quilomicrones"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué contienen los glucolípidos además de lípidos?",
+    "options": ["Proteínas", "Carbohidratos", "Ácidos nucleicos", "Vitaminas"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué compuesto es un ejemplo de esteroide?",
+    "options": ["Colesterol", "Almidón", "Glucógeno", "Celulosa"],
+    "answer": 0
+  },
+  {
+    "question": "¿De qué unidades están formados los terpenos e isoprenoides?",
+    "options": ["Glucosa", "Aminoácidos", "Isopreno", "Ácidos grasos"],
+    "answer": 2
+  },
+  {
+    "question": "¿Cuál es la unidad estructural básica de las proteínas?",
+    "options": ["Monosacáridos", "Ácidos grasos", "Aminoácidos", "Nucleótidos"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué enlace une a los aminoácidos en una proteína?",
+    "options": ["Glucosídico", "Peptídico", "Disulfuro", "Iónico"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué representa la estructura primaria de una proteína?",
+    "options": [
+      "La secuencia de aminoácidos",
+      "La hélice alfa",
+      "La unión de varias subunidades",
+      "La forma globular"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué estructuras pertenecen al nivel secundario de las proteínas?",
+    "options": [
+      "Hélice α y lámina β",
+      "Puentes disulfuro",
+      "Subunidades proteicas",
+      "Enlaces peptídicos"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué factores pueden causar la desnaturalización de una proteína?",
+    "options": [
+      "Temperatura y pH",
+      "Luz visible únicamente",
+      "Oxígeno atmosférico",
+      "Gravedad"
+    ],
+    "answer": 0
   }
 ]
