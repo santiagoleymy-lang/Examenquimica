@@ -1,0 +1,52 @@
+[
+  {
+    "question": "¿Qué elementos forman los carbohidratos?",
+    "options": ["Carbono, Hidrógeno y Oxígeno", "Carbono, Nitrógeno y Oxígeno", "Hidrógeno y Oxígeno", "Carbono y Azufre"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es la unidad más pequeña de los carbohidratos?",
+    "options": ["Disacárido", "Monosacárido", "Polisacárido", "Oligosacárido"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué grupos funcionales presentan los carbohidratos?",
+    "options": ["Amino y fosfato", "Carboxilo y amino", "Hidroxilo y carbonilo", "Sulfhidrilo y éster"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué función cumplen los carbohidratos en los seres vivos?",
+    "options": ["Fuente inmediata de energía", "Reserva energética", "Función estructural", "Todas las anteriores"],
+    "answer": 3
+  },
+  {
+    "question": "Una molécula con 6 carbonos se clasifica como:",
+    "options": ["Pentosa", "Hexosa", "Heptosa", "Triosa"],
+    "answer": 1
+  },
+  {
+    "question": "Las furanosas poseen anillos de:",
+    "options": ["4 miembros", "5 miembros", "6 miembros", "7 miembros"],
+    "answer": 1
+  },
+  {
+    "question": "Las piranosas poseen anillos de:",
+    "options": ["4 miembros", "5 miembros", "6 miembros", "7 miembros"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué polisacárido funciona como reserva energética en plantas?",
+    "options": ["Glucógeno", "Celulosa", "Almidón", "Quitina"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué polisacárido funciona como reserva energética en animales?",
+    "options": ["Almidón", "Celulosa", "Glucógeno", "Pectina"],
+    "answer": 2
+  },
+  {
+    "question": "La celulosa está formada por moléculas de:",
+    "options": ["α-glucosa", "β-glucosa", "Fructosa", "Galactosa"],
+    "answer": 1
+  }
+]
