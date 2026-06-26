@@ -1,467 +1,502 @@
 [
-  {
-    "question": "¿Qué bioelementos conforman un carbohidrato?",
-    "options": [
-      "Carbono, hidrógeno y oxígeno",
-      "Carbono, nitrógeno y oxígeno",
-      "Hidrógeno y fósforo",
-      "Carbono y azufre"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "¿Qué grupos funcionales poseen los carbohidratos?",
-    "options": [
-      "Amino y fosfato",
-      "Hidroxilo y carbonilo",
-      "Carboxilo y amino",
-      "Tiol y éster"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "¿Cuál es la unidad más pequeña de los carbohidratos?",
-    "options": [
-      "Polisacárido",
-      "Oligosacárido",
-      "Monosacárido",
-      "Disacárido"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "¿Cuál es una función de los carbohidratos en los seres vivos?",
-    "options": [
-      "Fuente inmediata de energía",
-      "Reserva energética",
-      "Función estructural",
-      "Todas las anteriores"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "¿Cuáles son las tres formas de clasificar un monosacárido?",
-    "options": [
-      "Número de carbonos, grupo funcional y orientación espacial",
-      "Color, tamaño y masa",
-      "Solubilidad, forma y densidad",
-      "Acidez, carga y polaridad"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Una triosa posee:",
-    "options": [
-      "3 carbonos",
-      "4 carbonos",
-      "5 carbonos",
-      "6 carbonos"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Una hexosa posee:",
-    "options": [
-      "4 carbonos",
-      "5 carbonos",
-      "6 carbonos",
-      "7 carbonos"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "¿Qué grupo funcional caracteriza a una aldosa?",
-    "options": [
-      "Cetona",
-      "Alcohol",
-      "Aldehído",
-      "Éster"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "¿Qué grupo funcional caracteriza a una cetosa?",
-    "options": [
-      "Cetona",
-      "Aldehído",
-      "Amina",
-      "Carboxilo"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "En la configuración D, el grupo OH del carbono quiral más alejado se encuentra:",
-    "options": [
-      "A la izquierda",
-      "A la derecha",
-      "En el centro",
-      "Hacia abajo"
-    ],
-    "answer": 1
-  },
-    {
-    "question": "En la configuración L, el grupo OH del carbono quiral más alejado se encuentra:",
-    "options": [
-      "A la izquierda",
-      "A la derecha",
-      "Hacia arriba",
-      "En el centro"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "¿Qué sucede con los monosacáridos en disolución acuosa?",
-    "options": [
-      "Se descomponen",
-      "Forman proteínas",
-      "Las estructuras lineales se cierran y forman estructuras cíclicas",
-      "Pierden oxígeno"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "¿Qué es un enlace hemiacetal?",
-    "options": [
-      "La unión entre dos proteínas",
-      "La reacción entre un grupo aldehído y un alcohol dentro de la misma molécula",
-      "La unión entre dos ácidos grasos",
-      "Un enlace peptídico"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Las furanosas presentan anillos de:",
-    "options": [
-      "4 miembros",
-      "5 miembros",
-      "6 miembros",
-      "7 miembros"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Las piranosas presentan anillos de:",
-    "options": [
-      "5 miembros",
-      "6 miembros",
-      "7 miembros",
-      "8 miembros"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "¿Qué es el carbono anomérico?",
-    "options": [
-      "El carbono que proviene del grupo carbonilo y forma el anillo",
-      "El último carbono de la cadena",
-      "El carbono unido al nitrógeno",
-      "El carbono más pequeño de la molécula"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "¿Cómo se clasifican los carbohidratos según el número de unidades?",
-    "options": [
-      "Monosacáridos, oligosacáridos y polisacáridos",
-      "Aldosas y cetosas",
-      "Simples y complejos",
-      "Ácidos y básicos"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Los homopolisacáridos están formados por:",
-    "options": [
-      "Diferentes monosacáridos",
-      "Un solo tipo de monosacárido",
-      "Proteínas y lípidos",
-      "Ácidos nucleicos"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Los heteropolisacáridos están formados por:",
-    "options": [
-      "Un solo tipo de monosacárido",
-      "Ácidos grasos",
-      "Diferentes monosacáridos",
-      "Aminoácidos"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "¿Qué polisacárido funciona como reserva energética en plantas?",
-    "options": [
-      "Celulosa",
-      "Glucógeno",
-      "Almidón",
-      "Quitina"
-    ],
-    "answer": 2
-  },
-    {
-    "question": "¿Qué tipo de polisacárido es el almidón?",
-    "options": [
-      "Heteropolisacárido estructural",
-      "Homopolisacárido de reserva",
-      "Oligosacárido",
-      "Glucolípido"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "¿De qué moléculas está compuesto el almidón?",
-    "options": [
-      "Fructosa",
-      "Galactosa",
-      "Moléculas de α-glucosa",
-      "β-glucosa"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "¿Qué dos estructuras forman el almidón?",
-    "options": [
-      "Celulosa y quitina",
-      "Amilosa y amilopectina",
-      "Glucógeno y pectina",
-      "Furanosa y piranosa"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "¿Cómo es la amilosa?",
-    "options": [
-      "Muy ramificada",
-      "Lineal",
-      "Esférica",
-      "Fibrosa"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "¿Cómo es la amilopectina?",
-    "options": [
-      "Lineal",
-      "Ramificada",
-      "Esférica",
-      "Cíclica"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "¿Qué polisacárido constituye la reserva energética en animales y hongos?",
-    "options": [
-      "Almidón",
-      "Celulosa",
-      "Glucógeno",
-      "Pectina"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "¿Cómo es la estructura del glucógeno?",
-    "options": [
-      "Lineal",
-      "Muy ramificada",
-      "Fibrosa",
-      "Helicoidal"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "¿Qué tipo de polisacárido es la celulosa?",
-    "options": [
-      "De reserva",
-      "Estructural",
-      "Conjugado",
-      "Lipoproteico"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "¿La celulosa está formada por moléculas de?",
-    "options": [
-      "α-glucosa",
-      "Fructosa",
-      "β-glucosa",
-      "Galactosa"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "¿Qué tipo de enlaces unen las cadenas de la celulosa?",
-    "options": [
-      "α(1→4)",
-      "β(1→4)",
-      "Peptídicos",
-      "Disulfuro"
-    ],
-    "answer": 1
-  },
-    {
-    "question": "¿Cuál es la función principal de la celulosa en las plantas?",
-    "options": [
-      "Reserva energética",
-      "Función estructural en la pared celular",
-      "Almacenamiento de agua",
-      "Producción de proteínas"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "¿Qué tipo de polisacárido es la pectina?",
-    "options": [
-      "Homopolisacárido",
-      "Heteropolisacárido",
-      "Disacárido",
-      "Monosacárido"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "¿Dónde se encuentra principalmente la pectina?",
-    "options": [
-      "En la sangre",
-      "En la pared celular de las plantas",
-      "En los músculos",
-      "En las membranas animales"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "¿De qué está compuesto el ácido hialurónico?",
-    "options": [
-      "Glucosa y fructosa",
-      "Ácido D-glucurónico y N-acetilglucosamina",
-      "Aminoácidos esenciales",
-      "Ácidos grasos y glicerol"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "¿Cuál es una función del ácido hialurónico?",
-    "options": [
-      "Mantener la humedad de los tejidos",
-      "Almacenar energía",
-      "Transportar oxígeno",
-      "Formar enzimas"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "¿Qué biomoléculas forman los ácidos grasos?",
-    "options": [
-      "Carbohidratos",
-      "Proteínas",
-      "Lípidos",
-      "Ácidos nucleicos"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "¿Cuál es la función principal de los acilglicéridos?",
-    "options": [
-      "Reserva energética",
-      "Información genética",
-      "Catálisis enzimática",
-      "Transporte de oxígeno"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "¿Qué función cumplen las ceras?",
-    "options": [
-      "Protección e impermeabilización",
-      "Síntesis de proteínas",
-      "Almacenamiento de ADN",
-      "Producción de glucosa"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "¿Qué tipo de lípidos forman la estructura básica de las membranas celulares?",
-    "options": [
-      "Ceras",
-      "Fosfolípidos",
-      "Esteroides",
-      "Terpenos"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "¿Qué transportan las lipoproteínas en la sangre?",
-    "options": [
-      "Oxígeno",
-      "Lípidos",
-      "Proteínas",
-      "Vitaminas"
-    ],
-    "answer": 1
-  },
-    {
-    "question": "¿Cuál es la lipoproteína conocida como colesterol bueno?",
-    "options": ["LDL", "VLDL", "HDL", "IDL"],
-    "answer": 2
-  },
-  {
-    "question": "¿Cuál es la lipoproteína conocida como colesterol malo?",
-    "options": ["HDL", "LDL", "IDL", "Quilomicrones"],
-    "answer": 1
-  },
-  {
-    "question": "¿Qué contienen los glucolípidos además de lípidos?",
-    "options": ["Proteínas", "Carbohidratos", "Ácidos nucleicos", "Vitaminas"],
-    "answer": 1
-  },
-  {
-    "question": "¿Qué compuesto es un ejemplo de esteroide?",
-    "options": ["Colesterol", "Almidón", "Glucógeno", "Celulosa"],
-    "answer": 0
-  },
-  {
-    "question": "¿De qué unidades están formados los terpenos e isoprenoides?",
-    "options": ["Glucosa", "Aminoácidos", "Isopreno", "Ácidos grasos"],
-    "answer": 2
-  },
-  {
-    "question": "¿Cuál es la unidad estructural básica de las proteínas?",
-    "options": ["Monosacáridos", "Ácidos grasos", "Aminoácidos", "Nucleótidos"],
-    "answer": 2
-  },
-  {
-    "question": "¿Qué enlace une a los aminoácidos en una proteína?",
-    "options": ["Glucosídico", "Peptídico", "Disulfuro", "Iónico"],
-    "answer": 1
-  },
-  {
-    "question": "¿Qué representa la estructura primaria de una proteína?",
-    "options": [
-      "La secuencia de aminoácidos",
-      "La hélice alfa",
-      "La unión de varias subunidades",
-      "La forma globular"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "¿Qué estructuras pertenecen al nivel secundario de las proteínas?",
-    "options": [
-      "Hélice α y lámina β",
-      "Puentes disulfuro",
-      "Subunidades proteicas",
-      "Enlaces peptídicos"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "¿Qué factores pueden causar la desnaturalización de una proteína?",
-    "options": [
-      "Temperatura y pH",
-      "Luz visible únicamente",
-      "Oxígeno atmosférico",
-      "Gravedad"
-    ],
-    "answer": 0
-  }
+{
+  "question": "A partir de la lectura, puede inferirse que obtener proteínas puras es importante porque:",
+  "options": [
+    "Reduce la necesidad de emplear reactivos costosos en el laboratorio.",
+    "Permite acelerar la degradación espontánea de ácidos grasos saturados.",
+    "Permite realizar estudios más precisos y confiables.",
+    "Evita de forma permanente la desnaturalización térmica celular."
+  ],
+  "answer": 2
+},
+{
+  "question": "¿Cuál es la finalidad de la precipitación salina?",
+  "options": [
+    "Concentrar las proteínas presentes en el lisado.",
+    "Romper covalentemente el enlace peptídico de tipo amida.",
+    "Modificar de forma selectiva los carbonos anoméricos alfa y beta.",
+    "Hidrolizar los ácidos grasos insaturados de cadena larga."
+  ],
+  "answer": 0
+},
+{
+  "question": "En el contexto del texto, ¿qué significa la palabra lisado?",
+  "options": [
+    "Una disolución salina saturada para cristalizar carbohidratos.",
+    "Muestra obtenida tras romper las células.",
+    "El plegamiento tridimensional nativo de una proteína globular.",
+    "Una mezcla pura de monosacáridos reductores de tipo aldosa."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Cuál es la idea principal del texto?",
+  "options": [
+    "Describir las funciones estructurales e inmunológicas del colesterol.",
+    "Explicar el comportamiento anfipático de los lípidos en agua.",
+    "Analizar las estrategias que facilitan la obtención de proteínas puras.",
+    "Estudiar la síntesis de enlaces glucosídicos en la pared vegetal."
+  ],
+  "answer": 2
+},
+{
+  "question": "¿Por qué las lipoproteínas son fundamentales para el transporte de lípidos en el organismo?",
+  "options": [
+    "Porque actúan como vehículos solubles en la sangre debido a su cubierta anfipática.",
+    "Porque desnaturalizan los ácidos grasos saturados durante la circulación.",
+    "Porque rompen los puentes disulfuro de las proteínas globulares.",
+    "Porque sintetizan colesterol de forma directa en el plasma sanguíneo."
+  ],
+  "answer": 0
+},
+{
+  "question": "Son propiedades de los ácidos grasos insaturados:",
+  "options": [
+    "Presentan bajos puntos de fusión, carácter anfipático, esterificables.",
+    "Estructura totalmente lineal y puntos de fusión extremadamente altos.",
+    "Incapacidad absoluta de formar enlaces de tipo éster con el glicerol.",
+    "Solubilidad homogénea y perfecta en solventes polares como el agua."
+  ],
+  "answer": 0
+},
+{
+  "question": "La hemoglobina se clasifica como proteína de tipo:",
+  "options": [
+    "Fibrosa e insoluble de soporte estructural.",
+    "Conjugada, globular.",
+    "Simple y constituida únicamente por una cadena lineal corta.",
+    "Isoprenoide de almacenamiento citoplasmático energético."
+  ],
+  "answer": 1
+},
+{
+  "question": "Es un homopolisacárido de reserva energética presente de forma notable en hígado y músculo animal:",
+  "options": [
+    "Glucógeno.",
+    "Celulosa.",
+    "Almidón.",
+    "Sacarosa."
+  ],
+  "answer": 0
+},
+{
+  "question": "Es el grupo funcional que forman dos aminoácidos al unirse por un enlace peptídico:",
+  "options": [
+    "Éster.",
+    "Éter.",
+    "Amida.",
+    "Cetona."
+  ],
+  "answer": 2
+},
+{
+  "question": "Cuando se conocen los aminoácidos que componen una proteína y el orden exacto en el que se encuentran, se dice que conocemos su:",
+  "options": [
+    "Estructura secundaria.",
+    "Estructura primaria.",
+    "Estructura terciaria.",
+    "Estructura cuaternaria."
+  ],
+  "answer": 1
+},
+{
+  "question": "Son factores que afectan directamente la estructura nativa tridimensional de las proteínas:",
+  "options": [
+    "Agentes desnaturalizantes, temperatura, pH.",
+    "Concentración de helio gaseoso, luz visible y glucosa libre.",
+    "Presencia de enlaces glucosídicos alfa de almacenamiento.",
+    "Presión osmótica atmosférica estándar invariable."
+  ],
+  "answer": 0
+},
+{
+  "question": "Son tres monosacáridos biológicamente relevantes:",
+  "options": [
+    "Glucosa, galactosa, manosa.",
+    "Lactosa, sacarosa, maltosa.",
+    "Celulosa, almidón, glucógeno.",
+    "Celobiosa, sacarosa, fructosa."
+  ],
+  "answer": 0
+},
+{
+  "question": "De acuerdo con las relaciones bioquímicas correctas, ¿cuál de los siguientes lípidos se asocia directamente con la síntesis de hormonas?",
+  "options": [
+    "Fosfolípidos.",
+    "Triacilglicéridos.",
+    "Colesterol.",
+    "Glucolípidos."
+  ],
+  "answer": 2
+},
+{
+  "question": "Es la conformación plegada tridimensional global que adopta una única cadena polipeptídica:",
+  "options": [
+    "Estructura primaria.",
+    "Estructura secundaria.",
+    "Estructura terciaria.",
+    "Estructura cuaternaria."
+  ],
+  "answer": 2
+},
+{
+  "question": "Es el enlace covalente que une químicamente a dos unidades consecutivas de monosacáridos:",
+  "options": [
+    "Enlace peptídico.",
+    "Puente disulfuro.",
+    "Enlace glucosídico.",
+    "Enlace éster lipídico."
+  ],
+  "answer": 2
+},
+{
+  "question": "Homopolisacárido presente de manera estructural en la pared de las células vegetales:",
+  "options": [
+    "Almidón.",
+    "Celulosa.",
+    "Glucógeno.",
+    "Quitina."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Cuáles son los componentes estructurales químicos estándar de un aminoácido de forma general?",
+  "options": [
+    "Grupo éster, glicerol libre y una cadena lateral aromática.",
+    "Cadena hidrocarbonada saturada lineal y un grupo fosfato.",
+    "Grupo amida, grupo carboxilo, carbono alfa, radical e hidrógeno.",
+    "Base nitrogenada purina, pentosa y residuo fosfatado terminal."
+  ],
+  "answer": 2
+},
+{
+  "question": "Son las funciones biológicas principales atribuidas al colesterol en células animales:",
+  "options": [
+    "Precursor de otras moléculas y aporta rigidez a las membranas celulares.",
+    "Almacenamiento rápido de glucosa y regulación enzimática del lisado.",
+    "Catálisis biológica de enlaces amida y transporte selectivo de oxígeno.",
+    "Constituir polímeros rígidos insolubles en la pared celular."
+  ],
+  "answer": 0
+},
+{
+  "question": "Son ejemplos de carbohidratos clasificados químicamente como disacáridos:",
+  "options": [
+    "Glucosa, fructosa, galactosa, manosa.",
+    "Celulosa, almidón, glucógeno, quitina.",
+    "Celobiosa, lactosa, sacarosa, maltosa.",
+    "Ribosa, desoxirribosa, manosa, gliceraldehído."
+  ],
+  "answer": 2
+},
+{
+  "question": "¿Cuál es la importancia del carbono anomérico en la estructura cíclica de los monosacáridos?",
+  "options": [
+    "Romper de forma espontánea los enlaces peptídicos polipeptídicos.",
+    "Modificar la longitud de la cadena hidrocarbonada del lípido.",
+    "Determina la formación de las formas alfa y beta.",
+    "Impedir la esterificación de los radicales grasos insaturados."
+  ],
+  "answer": 2
+},
+{
+  "question": "¿Cuál es una característica estructural fundamental de las ceras dentro de la clasificación de los lípidos?",
+  "options": [
+    "Están formadas exclusivamente por anillos condensados derivados del fenantreno.",
+    "Están formadas por ácidos grasos y alcoholes de cadena larga.",
+    "Son altamente solubles en agua a cualquier temperatura fisiológica.",
+    "Contienen un átomo de nitrógeno central unido por enlaces amida rígidos."
+  ],
+  "answer": 1
+},
+{
+  "question": "Los enlaces disulfuro participan principalmente en la estabilización de la estructura:",
+  "options": [
+    "Primaria de las proteínas filamentosas lineales.",
+    "Terciaria de las proteínas.",
+    "Glucosídica de los homopolisacáridos ramificados.",
+    "Lipídica anfipática de las lipoproteínas solubles."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Qué ocurre exactamente durante el proceso molecular de desnaturalización de una proteína?",
+  "options": [
+    "Se altera su conformación espacial (perdiendo su función nativa).",
+    "Se rompen todos los enlaces peptídicos liberando aminoácidos puros.",
+    "Se transforma espontáneamente en una aldosa piranosal alfa.",
+    "Se incrementa notablemente su actividad biológica catalítica específica."
+  ],
+  "answer": 0
+},
+{
+  "question": "Son algunas funciones biológicas cruciales atribuidas a las proteínas:",
+  "options": [
+    "Transporte, defensa, receptoras, catálisis.",
+    "Reserva exclusiva de energía a largo plazo e insolubilidad hidrofóbica.",
+    "Síntesis directa de anillos aromáticos de colesterol plasmático.",
+    "Modulación cristalina de la fluidez lipídica de membranas animales."
+  ],
+  "answer": 0
+},
+{
+  "question": "Estructuralmente, el azúcar monosa de tipo manosa se clasifica técnicamente como:",
+  "options": [
+    "Aldosa - Hexosa - Piranosa - Alfa.",
+    "Cetosa - Pentosa - Furanosa - Beta.",
+    "Homopolisacárido - Disacárido lineal - Reductor.",
+    "Ácido graso insaturado esterificable anfipático."
+  ],
+  "answer": 0
+},
+{
+  "question": "¿Qué aminoácido tiene la capacidad de formar los puentes disulfuro esenciales para la estructura terciaria?",
+  "options": [
+    "Alanina.",
+    "Cisteína.",
+    "Glicina.",
+    "Lisina."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Qué tipo de lípido forma la base estructural de la bicapa en las membranas celulares?",
+  "options": [
+    "Triacilglicéridos.",
+    "Fosfolípidos.",
+    "Ceras insolubles.",
+    "Isoprenoides libres."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Qué enlace mantiene unidos los dos monosacáridos que forman la molécula de lactosa?",
+  "options": [
+    "Enlace peptídico.",
+    "Enlace glucosídico.",
+    "Enlace éster.",
+    "Enlace fosfodiéster."
+  ],
+  "answer": 1
+},
+{
+  "question": "Las proteínas fibrosas, a diferencia de las globulares, cumplen principalmente funciones de tipo:",
+  "options": [
+    "Catálisis enzimática y regulación.",
+    "Soporte estructural y protección.",
+    "Transporte gaseoso sistémico.",
+    "Almacenamiento hormonal directo."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Cuál es el principal carbohidrato de reserva energética en los organismos vegetales?",
+  "options": [
+    "Glucógeno.",
+    "Almidón.",
+    "Celulosa.",
+    "Sacarosa."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Qué molécula lipídica se utiliza en el cuerpo como principal reserva de energía a largo plazo?",
+  "options": [
+    "Colesterol.",
+    "Triacilglicéridos (grasas neutras).",
+    "Fosfolípidos de membrana.",
+    "Esfingolípidos estructurales."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Qué nivel estructural proteico se caracteriza por la presencia local de hélices alfa y láminas beta?",
+  "options": [
+    "Estructura primaria.",
+    "Estructura secundaria.",
+    "Estructura terciaria.",
+    "Estructura cuaternaria."
+  ],
+  "answer": 1
+},
+{
+  "question": "La hidrólisis completa de un triacilglicérido rinde como productos:",
+  "options": [
+    "Aminoácidos y cadenas peptídicas.",
+    "Ácidos grasos y glicerol.",
+    "Monosacáridos y grupos fosfato.",
+    "Colesterol y sales biliares."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Cuál de los siguientes azúcares es una cetohexosa bien conocida?",
+  "options": [
+    "Glucosa.",
+    "Fructosa.",
+    "Galactosa.",
+    "Ribosa."
+  ],
+  "answer": 1
+},
+{
+  "question": "Las interacciones débiles que estabilizan la hélice alfa en las proteínas corresponden a:",
+  "options": [
+    "Enlaces covalentes coordinados.",
+    "Puentes de hidrógeno intracatenarios.",
+    "Puentes disulfuro entre cisteínas.",
+    "Enlaces de tipo éster."
+  ],
+  "answer": 1
+},
+{
+  "question": "Una propiedad de los ácidos grasos saturados es que:",
+  "options": [
+    "Presentan múltiples dobles enlaces de tipo cis.",
+    "Suelen ser sólidos a temperatura ambiente debido a su empaquetamiento compacto.",
+    "Son altamente solubles en agua desionizada pura.",
+    "Carecen por completo de grupo carboxilo funcional."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Qué tipo de carbohidrato es la maltosa?",
+  "options": [
+    "Monosacárido.",
+    "Disacárido.",
+    "Polisacárido ramificado.",
+    "Oligosacárido complejo."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Qué enzima cataliza la descomposición biológica de los enlaces peptídicos?",
+  "options": [
+    "Lipasa.",
+    "Proteasa.",
+    "Amilasa.",
+    "Sintetasa."
+  ],
+  "answer": 1
+},
+{
+  "question": "El carácter anfipático de una molécula significa que posee:",
+  "options": [
+    "Únicamente propiedades ácidas en solución acuosa.",
+    "Una región hidrofílica y una región hidrofóbica bien diferenciadas.",
+    "Varios azúcares reductores en sus extremos terminales.",
+    "Dos cadenas polipeptídicas idénticas en su estructura terciaria."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Cuál es el monosacárido constituyente exclusivo de los polímeros almidón y celulosa?",
+  "options": [
+    "Fructosa.",
+    "Glucosa.",
+    "Galactosa.",
+    "Sacarosa."
+  ],
+  "answer": 1
+},
+{
+  "question": "La mioglobina, al estar formada por una sola cadena polipeptídica plegada, carece de estructura:",
+  "options": [
+    "Primaria.",
+    "Secundaria.",
+    "Terciaria.",
+    "Cuaternaria."
+  ],
+  "answer": 3
+},
+{
+  "question": "Un enlace éster en bioquímica se forma típicamente por la reacción entre:",
+  "options": [
+    "Dos grupos amino vecinos.",
+    "Un ácido carboxílico y un alcohol.",
+    "Dos azúcares aldehídos cíclicos.",
+    "Un grupo amida y un residuo azufrado."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Qué reactivo químico se utiliza comúnmente en el laboratorio para detectar azúcares reductores?",
+  "options": [
+    "Reactivo de Biuret.",
+    "Reactivo de Fehling / Benedict.",
+    "Solución de yodo o Lugol.",
+    "Ácido clorhídrico concentrado."
+  ],
+  "answer": 1
+},
+{
+  "question": "El enlace peptídico presenta una naturaleza geométrica especial caracterizada por:",
+  "options": [
+    "Una flexibilidad e isomerización tridimensional total y libre.",
+    "Un carácter parcial de doble enlace de tipo plano y rígido.",
+    "Ser un enlace iónico inestable frente a cambios menores de pH.",
+    "Formarse únicamente en presencia de azúcares de tipo cetosa."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Cuál es el lípido precursor común a partir del cual se sintetizan las sales biliares y la vitamina D?",
+  "options": [
+    "Triacilglicerol.",
+    "Colesterol.",
+    "Ácido palmítico.",
+    "Esfingomielina."
+  ],
+  "answer": 1
+},
+{
+  "question": "La desnaturalización proteica no rompe los enlaces peptídicos porque estos son enlaces de tipo:",
+  "options": [
+    "Iónico débil.",
+    "Covalente fuerte.",
+    "Interacción hidrofóbica transitoria.",
+    "Puente de hidrógeno local."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Cuál es la azúcar aldopentosa esencial que forma parte de la estructura del ARN?",
+  "options": [
+    "Desoxirribosa.",
+    "Ribosa.",
+    "Glucosa.",
+    "Fructosa."
+  ],
+  "answer": 1
+},
+{
+  "question": "Las interacciones hidrofóbicas en las proteínas globulares tienden a ubicar los aminoácidos no polares hacia:",
+  "options": [
+    "La superficie exterior en contacto directo con el agua.",
+    "El interior o núcleo denso de la estructura tridimensional.",
+    "Los carbonos anoméricos del grupo prostético hemo exclusivamente.",
+    "Los extremos amino y carboxilo terminales libres."
+  ],
+  "answer": 1
+},
+{
+  "question": "Un ejemplo clásico de una proteína con función de defensa inmunológica es:",
+  "options": [
+    "La hemoglobina.",
+    "La inmunoglobulina (anticuerpo).",
+    "La queratina fibrosa.",
+    "La albúmina de suero."
+  ],
+  "answer": 1
+},
+{
+  "question": "¿Qué propiedad macroscópica de las proteínas se ve severamente reducida al exponerlas a su punto isoeléctrico o desnaturalizarlas?",
+  "options": [
+    "El peso molecular neto del esqueleto peptídico.",
+    "La solubilidad en el medio acuoso.",
+    "La secuencia lineal primaria de residuos.",
+    "El número total de carbonos de la cadena lateral."
+  ],
+  "answer": 1
+}
 ]
