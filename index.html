@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz de Biomoléculas</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>🧬 Quiz de Biomoléculas</h1>
+
+        <p class="subtitulo">
+            Examen aleatorio de 50 preguntas sobre carbohidratos,
+            lípidos y proteínas.
+        </p>
+
+        <div id="record-container">
+            Mejor puntuación:
+            <span id="record">0</span>/50
+        </div>
+
+        <div id="quiz"></div>
+
+        <div class="botones">
+
+            <button onclick="calificar()">
+                Terminar examen
+            </button>
+
+            <button onclick="nuevoExamen()">
+                Nuevo examen
+            </button>
+
+        </div>
+
+        <div id="resultado"></div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
